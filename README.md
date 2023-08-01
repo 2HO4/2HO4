@@ -1,5 +1,5 @@
 # About Me 
-Hi I'm Anton, an Econometrics and Data Science student at the University of Amsterdam.
+Hi I'm Anton, an Econometrics and Data Science student at the University of Amsterdam and Turing College.
 
 <!--
 **2HO4/2HO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
