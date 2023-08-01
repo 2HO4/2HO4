@@ -1,5 +1,7 @@
 # About Me 
+
 Hi I'm Anton, an Econometrics and Data Science student at the University of Amsterdam and Turing College. 
+
 Promise I will add more later!
 
 <!--
